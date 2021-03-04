@@ -1,0 +1,22 @@
+
+:root{
+    --dark_blue_1:  hsl(217, 28%, 15%);
+    --dark_blue_2: hsl(218, 28%, 13%);
+    --dark_blue_3: hsl(216, 53%, 9%);
+    --dark_blue_4: hsl(219, 30%, 18%);
+
+    --cyan: hsl(176, 68%, 64%);
+    --blue: hsl(198, 60%, 50%);
+    --light_red: hsl(0, 100%, 63%);
+
+    --white: hsl(0, 0%, 100%);
+
+    --font_size: 14px;
+
+    --font_w_1: 400;
+    --font_w_2: 700;
+
+    --ff_raleway: 'Open Sans', sans-serif;
+    --ff_os: 'Open Sans', sans-serif;
+
+}
